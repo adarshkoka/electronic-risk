@@ -1,0 +1,27 @@
+HOW TO PLAY:
+	1. Starting the game:
+		a. Press 'reset' to reset the memory and start a new game
+		b. Press 'inc' until number of players is displayed on numerical display (7-segment)
+		c. Press 'battle' to begin the game with territories auto-assigned
+	
+	1a. Alternate Start:
+		a. Follow steps a and b of Section 1, "Starting the game"
+		b. Hold 'battle' down for 3 seconds in order to self-assign how many units each territory receives
+
+	2. Incrementing and Decrementing Units:
+		In order to increment and decrement units manually (for moving units, increasing armies, etc.)
+		a. Select the territory whose units you wish to adjust
+		b. Press 'inc' or 'dec' until the desired amount of units is displayed* 
+
+			*Note: although the counter will cut off at 99 units, more units may be placed/recorded/utilized for each territory though these will not be displayed
+
+	3. Battling:
+		a. Select the territory which will be attacking 
+		b. Press 'battle'*
+		c. Select the territory which will be defending
+		d. Sound output will dictate the outcome of the battle; additionally, if the territories are reselected, their updated units will be displayed
+		
+			*Note: if the attacking territory has fewer than 2 units, selecting battle will result in an error sound and nothing will occur
+
+	4. Winning the game:
+		The game is won once all rival territories have been eliminated. For two player games, the third neutral party is not required to be eliminated
